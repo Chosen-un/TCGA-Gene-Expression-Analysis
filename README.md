@@ -68,5 +68,5 @@ Classifier Performance:
 
 - Initial Accuracy: 92.05%
 
-- Improved Accuracy (Balanced): 90.07% (While slightly lower in overall accuracy, the balanced model provides a better and more generalizable performance across all classes, especially for the underrepresented subtype 3).
+- Accuracy (Balanced): 90.07% (While slightly lower in overall accuracy, the balanced model provides a better and more generalizable performance across all classes, especially for the underrepresented subtype 3).
 
